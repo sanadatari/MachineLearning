@@ -1,0 +1,9 @@
+Requirements
+
+1- numpy
+2- tensorflow
+3- keras
+4- matplotlib
+5- opencv
+6- python
+7- panda
