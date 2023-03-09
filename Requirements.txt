@@ -7,3 +7,4 @@ Requirements
 5- opencv
 6- python
 7- panda
+8- imutils
